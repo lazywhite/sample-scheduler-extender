@@ -1,4 +1,4 @@
-module github.com/Huang-Wei/sample-scheduler-extender
+module github.com/lazywhite/sample-scheduler-extender
 
 go 1.13
 
